@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Infraestructure.deps.json
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Infraestructure.runtimeconfig.json
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Infraestructure.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Infraestructure.pdb
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Domain.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\bin\Debug\net6.0\Biblioteca.Domain.pdb
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\refint\Biblioteca.Infraestructure.dll
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.pdb
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\Biblioteca.Infraestructure.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Infraestructure\obj\Debug\net6.0\ref\Biblioteca.Infraestructure.dll

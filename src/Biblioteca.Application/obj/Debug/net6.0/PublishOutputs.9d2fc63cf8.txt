@@ -1,0 +1,5 @@
+c:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Application\bin\Debug\net6.0\publish\Biblioteca.Application.dll
+c:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Application\bin\Debug\net6.0\publish\Biblioteca.Application.deps.json
+c:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Application\bin\Debug\net6.0\publish\Biblioteca.Application.pdb
+c:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Application\bin\Debug\net6.0\publish\Biblioteca.Domain.dll
+c:\Users\Admin\Desktop\Trabajo\PruebaTecnica\src\Biblioteca.Application\bin\Debug\net6.0\publish\Biblioteca.Domain.pdb

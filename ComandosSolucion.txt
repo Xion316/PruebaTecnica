@@ -1,0 +1,10 @@
+dotnet new classlib -o src/Biblioteca.Application
+dotnet new classlib -o src/Biblioteca.Domain
+dotnet new classlib -o src/Biblioteca.Infraestructure
+dotnet new webapi -o src/Biblioteca.HttpApi
+
+
+dotnet sln add src/Biblioteca.Application/Biblioteca.Application.csproj
+dotnet sln add src/Biblioteca.Domain/Biblioteca.Domain.csproj
+dotnet sln add src/Biblioteca.Infraestructure/Biblioteca.Infraestructure.csproj
+dotnet sln add src/Biblioteca.HttpApi/Biblioteca.HttpApi.csproj
